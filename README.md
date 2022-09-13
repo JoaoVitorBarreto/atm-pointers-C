@@ -1,2 +1,2 @@
 # atm-pointers-C
-Implementation in C Programming Language of asimple ATM operations using pointers.
+Implementation in C Programming Language of simple ATM operations using pointers.
